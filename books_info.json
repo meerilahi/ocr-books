@@ -5,11 +5,6 @@
         "bisect" : "left",
         "leading_pages": 7,
         "chapters": {
-            "1": {
-                "chapterTitle": "Introduction to Biology",
-                "start_page": 1,
-                "end_page": 22
-            },
             "2": {
                 "chapterTitle": "Solving A Biological Problem",
                 "start_page": 23,

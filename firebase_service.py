@@ -1,158 +1,141 @@
+from typing import List
 import firebase_admin
-from firebase_admin import credentials
-from firebase_admin import firestore
-from typing import Optional, Dict, Any
+from firebase_admin import credentials, firestore
+from google.cloud.firestore_v1.base_query import FieldFilter
+from book_model import BookModel, ChapterModel
 
 class FirestoreCRUD:
 
-    def __init__(self, cred_path: str):
-        try:
-            cred = credentials.Certificate(cred_path)
+    def __init__(self, cred_path: str = None):
+        if not firebase_admin._apps:
+            if cred_path:
+                cred = credentials.Certificate(cred_path)
+            else:
+                cred = credentials.ApplicationDefault()
             firebase_admin.initialize_app(cred)
-            self.db = firestore.client()
-            print("Firestore client initialized successfully")
-        except Exception as e:
-            print(f"Error initializing Firestore: {e}")
-            raise
+        self.db = firestore.client()
+        self.books_collection = "books"
 
-    def create_document(self, collection_name: str, document_data: Dict[str, Any], document_id: Optional[str] = None) -> str:
-        try:
-            if document_id:
-                doc_ref = self.db.collection(collection_name).document(document_id)
-                doc_ref.set(document_data)
-            else:
-                doc_ref = self.db.collection(collection_name).document()
-                doc_ref.set(document_data)
-                document_id = doc_ref.id
-                
-            print(f"Document created with ID: {document_id}")
-            return document_id
-        except Exception as e:
-            print(f"Error creating document: {e}")
-            raise
+    def add_book(self, book: BookModel) -> str:
+        doc_ref = self.db.collection(self.books_collection).document()
+        doc_ref.set(book.to_dict())
+        return doc_ref.id
+    
+    def add_chapter_to_book(self, book_id: str, chapter: ChapterModel) -> bool:
+        book_ref = self.db.collection(self.books_collection).document(book_id)
+        book_data = book_ref.get().to_dict()    
+        if not book_data:
+            return False
+        book = BookModel.from_dict(book_data)
+        book.chapters.append(chapter)
+        book_ref.update({'chapters': [ch.to_dict() for ch in book.chapters]})
+        return True
 
-    def read_document(self, collection_name: str, document_id: str) -> Optional[Dict[str, Any]]:
-        try:
-            doc_ref = self.db.collection(collection_name).document(document_id)
-            doc = doc_ref.get()
-            
-            if doc.exists:
-                print(f"Document found: {doc.to_dict()}")
-                return doc.to_dict()
-            else:
-                print(f"No document found with ID: {document_id}")
-                return None
-        except Exception as e:
-            print(f"Error reading document: {e}")
-            raise
+    def get_book(self, book_id: str) -> BookModel:
+        doc_ref = self.db.collection(self.books_collection).document(book_id)
+        doc = doc_ref.get()
+        if doc.exists:
+            return BookModel.from_dict(doc.to_dict())
+        return None
 
-    def update_document(self, collection_name: str, document_id: str, update_data: Dict[str, Any], merge: bool = True) -> bool:
-        try:
-            doc_ref = self.db.collection(collection_name).document(document_id)
-            doc_ref.set(update_data, merge=merge)
-            print(f"Document {document_id} updated successfully")
+    def get_all_books(self) -> List[BookModel]:
+        docs = self.db.collection(self.books_collection).stream()
+        return [BookModel.from_dict(doc.to_dict()) for doc in docs]
+
+    def get_books_by_title(self, title: str) -> List[BookModel]:
+        docs = self.db.collection(self.books_collection)\
+                      .where(filter=FieldFilter('title', '>=', title))\
+                      .where(filter=FieldFilter('title', '<=', title + '\uf8ff'))\
+                      .stream()
+        return [BookModel.from_dict(doc.to_dict()) for doc in docs]
+
+    def get_chapter(self, book_id: str, chapter_no: int) -> ChapterModel:
+        book = self.get_book(book_id)
+        if book and book.chapters:
+            for chapter in book.chapters:
+                if chapter.chapter_No == chapter_no:
+                    return chapter
+        return None
+
+    def update_book_title(self, book_id: str, new_title: str) -> bool:
+        book_ref = self.db.collection(self.books_collection).document(book_id)
+        book_ref.update({'title': new_title})
+        return True
+
+    def update_chapter(self, book_id: str, chapter_no: int, new_chapter: ChapterModel) -> bool:
+        if new_chapter.chapter_No != chapter_no:
+            return False
+        book_ref = self.db.collection(self.books_collection).document(book_id)
+        book_data = book_ref.get().to_dict()
+        if not book_data:
+            return False
+        book = BookModel.from_dict(book_data)
+        updated = False
+        for i, chapter in enumerate(book.chapters):
+            if chapter.chapter_No == chapter_no:
+                book.chapters[i] = new_chapter
+                updated = True
+                break
+        if updated:
+            book_ref.update({'chapters': [ch.to_dict() for ch in book.chapters]})
             return True
-        except Exception as e:
-            print(f"Error updating document: {e}")
-            raise
+        return False
 
-    def delete_document(self, collection_name: str, document_id: str) -> bool:
-        try:
-            doc_ref = self.db.collection(collection_name).document(document_id)
-            doc_ref.delete()
-            print(f"Document {document_id} deleted successfully")
+    def delete_book(self, book_id: str) -> bool:
+        self.db.collection(self.books_collection).document(book_id).delete()
+        return True
+
+    def delete_chapter(self, book_id: str, chapter_no: int) -> bool:
+        book_ref = self.db.collection(self.books_collection).document(book_id)
+        book_data = book_ref.get().to_dict()
+        if not book_data:
+            return False
+        book = BookModel.from_dict(book_data)
+        original_length = len(book.chapters)
+        book.chapters = [ch for ch in book.chapters if ch.chapter_No != chapter_no]
+        if len(book.chapters) < original_length:
+            book_ref.update({'chapters': [ch.to_dict() for ch in book.chapters]})
             return True
-        except Exception as e:
-            print(f"Error deleting document: {e}")
-            raise
-
-    def query_collection(self, collection_name: str, query_params: Dict[str, Any], limit: Optional[int] = None) -> list:
-        try:
-            collection_ref = self.db.collection(collection_name)
-            
-            # Build the query
-            query = collection_ref
-            for field, value in query_params.items():
-                query = query.where(field, "==", value)
-                
-            if limit:
-                query = query.limit(limit)
-                
-            results = query.stream()
-            
-            documents = []
-            for doc in results:
-                documents.append({"id": doc.id, **doc.to_dict()})
-                
-            print(f"Found {len(documents)} matching documents")
-            return documents
-        except Exception as e:
-            print(f"Error querying collection: {e}")
-            raise
-
-    def list_collection_documents(self, collection_name: str) -> list:
-        """
-        List all documents in a collection
-        
-        Args:
-            collection_name: Name of the Firestore collection
-            
-        Returns:
-            List of all documents in the collection
-        """
-        try:
-            docs = self.db.collection(collection_name).stream()
-            documents = []
-            
-            for doc in docs:
-                documents.append({"id": doc.id, **doc.to_dict()})
-                
-            print(f"Collection {collection_name} contains {len(documents)} documents")
-            return documents
-        except Exception as e:
-            print(f"Error listing documents: {e}")
-            raise
+        return False
 
 
-# Example Usage
 if __name__ == "__main__":
-    # Initialize with your service account JSON path
-    firestore_crud = FirestoreCRUD("path/to/your/serviceAccountKey.json")
+    # Initialize with your Firebase credentials file
+    crud = FirestoreCRUD(".firebase_credentials.json")
     
-    # Example collection name
-    collection = "users"
-    
-    # Create a document
-    user_data = {
-        "name": "John Doe",
-        "email": "john@example.com",
-        "age": 30,
-        "is_active": True
-    }
-    doc_id = firestore_crud.create_document(collection, user_data)
-    
-    # Read the document
-    user = firestore_crud.read_document(collection, doc_id)
-    print(f"Retrieved user: {user}")
-    
-    # Update the document
-    update_data = {
-        "age": 31,
-        "last_updated": firestore.SERVER_TIMESTAMP
-    }
-    firestore_crud.update_document(collection, doc_id, update_data)
-    
-    # Query documents
-    query_results = firestore_crud.query_collection(
-        collection, 
-        {"is_active": True}, 
-        limit=5
+    # Create a book with chapters
+    book = BookModel(
+        title="Python Programming",
+        chapters=[
+            ChapterModel(1, "Introduction", "Welcome to Python programming..."),
+            ChapterModel(2, "Variables", "Variables are used to store data...")
+        ]
     )
-    print(f"Active users: {query_results}")
     
-    # List all documents
-    all_users = firestore_crud.list_collection_documents(collection)
-    print(f"All users: {all_users}")
+    # Add book to Firestore - now returns just the ID string
+    book_id = crud.add_book(book)
+    print(f"Book added with ID: {book_id}")
     
-    # Delete the document
-    firestore_crud.delete_document(collection, doc_id)
+    # Add a new chapter - now book_id is a string
+    new_chapter = ChapterModel(3, "Functions", "Functions are reusable blocks of code...")
+    success = crud.add_chapter_to_book(book_id, new_chapter)
+    print(f"Chapter added successfully: {success}")
+    
+    # Get the book
+    retrieved_book = crud.get_book(book_id)
+    print(f"Retrieved book: {retrieved_book.title}")
+    print(f"Chapters: {[ch.title for ch in retrieved_book.chapters]}")
+    
+    # Update a chapter
+    updated_chapter = ChapterModel(2, "Variables and Data Types", "Updated content...")
+    crud.update_chapter(book_id, 2, updated_chapter)
+    
+    # Get a specific chapter
+    chapter = crud.get_chapter(book_id, 2)
+    print(f"Chapter 2 title: {chapter.title}")
+    
+    # Delete a chapter
+    crud.delete_chapter(book_id, 1)
+    
+    # Delete the book
+    crud.delete_book(book_id)
