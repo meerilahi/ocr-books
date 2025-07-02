@@ -1,0 +1,535 @@
+# Notes of any Subject for any test Preparation
+
+## 1.1 Introduction to Biology
+
+Biology is the science of life. The word "Biology" is derived from two Greek words "Bio" means 'life' and "Logos" means 'to study'. In 1736, a Swedish Scientist Carl Linneaus for the first time used the word biology. Biology has three major divisions:
+
+(i) **Botany:** It is the study of plants.
+
+(ii) **Zoology:** It is the study of animals.
+
+(iii) **Microbiology:** It is the study of microorganisms e.g. viruses, bacteria and microscopic fungi.
+
+### 1.2 Branches of Biology
+
+Biology is a fast growing field of science. Therefore, it is divided into many specialized branches for better understanding and convenience. The following are the main branches of biology.
+
+i. **Morphology** is the study of form, shape and structure of organisms.
+
+ii. **Anatomy** is the study of internal structures of organisms.
+
+iii. **Histology** is the study of the composition, structure and functions of plant and animal tissues.
+
+### Scientific Information
+
+In biology, "structure" means any part of the living organism that can be seen with the naked eye or with the help of microscope.
+
+iv. **Physiology** deals with the functions of different parts of organisms and the activities occurring in them.
+
+v. **Embryology** deals with embryo and the phenomena involved in the formation of embryo and its development into a new organism.
+
+vi. **Taxonomy** is the study of classification of organisms and their scientific naming.
+
+vii. **Cell Biology** or cytology is the study of cells and their organelles.
+
+viii. **Palaeontology** is the study of fossils of past organisms. The study of fossils of plants is called Paleobotany and the study of fossils of animals is called Paleozoology.
+
+### Scientific Information
+
+In embryology, we study the development of an organism from a fertilized egg.
+
+**NOT FOR SALE**
+
+3
+
+3025247378
+# UNIT 1 
+
+## Scientific Information
+
+ix. Immunology deals with the body's system of defence against disease-causing microorganisms.
+x. Entomology deals with the study of insects.
+xi. Genetics deals with the study of transmission of characters from parents to off springs.
+xii. Biotechnology is the study of the use of organisms for the benefit and welfare of humanity.
+xiii. Environmental biology is the branch of biology which deals with inter-relationship of organisms and their environment.
+xiv. Parasitology is the branch of biology which deals with the study of parasites and all aspects of parasitism.
+xv. Socio-biology is concerned with the social behavior-of some animals such as humans, bees, ants etc. Socio-biology investigates the beneficial relationship among the animals living in the same area.
+xvi. Pharmacology is the scientific study of drugs and their effects on the human body. Pharmacology analyze the synthesis and breakdown, biological activity and effects and delivery of drugs.
+
+### 1.3 Linkage of Biology with other Fields of Study
+
+The functions and metabolic pathways occurring in living organisms follow the principles of other fields of study like physics, chemistry, geography, economics etc. This type of linkage makes inter-disciplinary sciences. Some of the inter-disciplinary sciences are mentioned below:
+1.3.1 Biophysics. is an inter-disciplinary study of understanding biological phenomena and problems using the principles and techniques of physics. It is used in physiology, bioenergetics, neurosciences, pharmacology etc. For example, photosynthesis follows the laws of physics during the absorption of light.
+1.3.2 Biochemistry is concerned with chemical substances and processes that occur in organisms. It involves the structural analysis of the organic compounds that make up cells and of those that play key roles in chemical reactions of life (e.g., photosynthesis and respiration reactions).
+# Introduction to Biology
+
+## 1.3.3 Biogeography
+
+Biogeography is the study of distribution of organisms in space and time. For example, in biogeography we study why polar bears are found only in certain parts of the arctic regions or why malaria-causing mosquitoes flourish in damp and warm areas.
+
+## 1.3.4 Biostatistics or Biometry
+
+Biostatistics or biometry is the application of statistical and mathematical formulas in the study of biology. It involves the design, analysis, and interpretation of research data.
+
+## 1.3.5 Bio-economics
+
+Bio-economics is the co-relation between biology and economics. It deals with the study of organisms from the economical point of view. In bio-economics, scientists calculate and compare the cost and profit of the biological projects e.g., production of a new variety of a crop.
+
+## 1.4 Careers in Biology
+
+Careers in biology: Studying biology can be immensely rewarding and exciting. There are several career paths one can follow as a biologist, such as:
+
+### 1.4.1 Medicine and Surgery
+
+The field of medicine is related with the diagnosis and treatment of human diseases. In surgery, the defective parts of the body are repaired, replaced, or removed. One can choose these professions in the same course (MBBS) after studying biology at higher secondary level.
+
+### 1.4.2 Fisheries
+
+Fisheries is the profession related to the production of fish. Fisheries managers work in fish hatcheries and study fish habitats, nutrition requirements, genetics, and diseases, etc., to raise fish production. One can adopt this career after completing a bachelor or master degree in zoology.
+
+### 1.4.3 Agriculture
+
+A biologist can also opt-in his/her career as an agriculturalist who deals with crops and livestock. In Pakistan, there are agricultural universities where one can do professional courses in agriculture after the higher secondary education in biology. Agriculturists may work in the agriculture department, veterinary and pharmaceutical industries, food industries, farming, agricultural banks, etc.
+
+## Science, Technology, and Society
+
+### Penicillin
+
+An accidental breakthrough in the world of medicine. Penicillin is the first naturally occurring and most extensively used antibiotic. It was discovered in 1928. It has enabled the physicians to treat severe infections such as meningitis, pneumonia, and gonorrhoea. The first patient was successfully treated in the United States in 1942. Penicillin helped in reducing the number of deaths.
+# 1.4.4 Animal Science 
+
+Animal science or animal husbandry deals with the breeding and raising of livestock (domestic animals). The professional course is taught in many universities and colleges after higher secondary education in biology. Graduates of these courses work in veterinary hospitals, pharmaceutical industry, livestock department and pet food industry etc.
+
+### 1.4.5 Horticulture
+
+After higher secondary education, you can opt for a professional course in horticulture. Horticulturist can open business and find jobs in fruits and vegetable production, landscape design, nurseries, gardens, pest management etc.
+
+### 1.4.6 Forestry
+
+Forestry is concerned with managing forests and growing forests to provide timber and for wildlife habitat, recreation and biodiversity management.
+
+## Forensic science:
+
+Forensic biologists work with police departments and other law enforcement agencies using scientific methods to discover and process evidence that can be used to detect criminals.
+
+## Health care:
+
+Biologists may develop public health campaigns to defeat illnesses such as tuberculosis, cancer and heart diseases. Others work to prevent the spread of rare and deadly diseases, such as dengue fever.
+
+### 1.4.7 Farming
+
+In farming farms are developed and maintained for animal breeding, poultry, fruit and vegetables. A student of biology after doing professional course in agriculture or animal husbandry etc. can adopt this field.
+
+## Analysing and Interpreting:
+
+A group of class fellows is interested in various fields of biology. On the basis of your knowledge, analyse where they can make their careers.
+
+| Students | Field | Career (may be 1 or more) |
+| :--: | :-- | :-- |
+| 1 | Immunology |  |
+| 2 | Entomology |  |
+| 3 | Histology |  |
+| 4 | Parasitology |  |
+# UNIT 1
+
+## INTRODUCTION TO BIOLOGY
+
+### 1.5 The Five Kingdoms
+
+Robert Whittaker in 1969 classified all living organisms into five kingdoms. This is known as "Five-Kingdom System of Classification". These five kingdoms are:
+
+1. Prokaryotae
+2. Protoctista
+3. Fungi
+4. Plantae
+5. Animalia
+
+#### 1.5.1 Kingdom Prokaryotae (Monera)
+
+This kingdom includes all unicellular and microscopic organisms. These organisms lack membrane-bounded nucleus and other organelles inside their cells. Their cell wall is made of murein. Examples are Bacteria and Cyanobacteria.
+
+#### 1.5.2 Kingdom Protista or Protoctista
+
+This kingdom included eukaryotic organisms which are usually small and having differences with the organisms of other eukaryotic kingdoms. They usually live in aquatic habitats. Algae, slime molds, protozoans (Plasmodium, Amoeba, and Paramecium) are some of the examples of this kingdom.
+
+#### 1.5.3 Kingdom Fungi
+
+Fungi include organisms which are all eukaryotic and multicellular. Their cell wall is made of chitin (a polysaccharide). They do not have chloroplast, so they cannot synthesize their own food and are therefore heterotrophic. The food is stored inside the body in the form of glycogen. Some of the examples are Mushrooms, Molds, Puffballs, yeast, etc.
+
+#### 1.5.4 Kingdom Plantae
+
+This kingdom includes multicellular and eukaryotic organisms which are autotrophic in nature. Their cell wall is made of cellulose and mostly lack centrioles inside their cells. The reserve food is in the form of starch. Examples are Brassica, Mulberry, Pinus, Ferns, etc.
+
+#### 1.5.5 Kingdom Animalia
+
+This kingdom includes multicellular and eukaryotic organisms which are heterotrophic in nature. These organisms lack the cell wall and centrioles are present in the cells. The reserve food is glycogen. The members of this kingdom can be split into two groups that are vertebrates and invertebrates. Animals include jellyfish, worms, insects, fish, reptiles, birds, mammals, etc.
+
+7
+
+3025247378
+# 1.6 Holy Quran and Biological Science 
+
+Allah, the Creator and Sustainer of the whole universe, has guided His creatures in every possible way which can lead them to successful survival.
+
+In the same way, He has guided human beings in their search for those basic questions which have puzzled their minds for centuries. For the material guidance and spiritual development of the human intellect, Allah has endowed humanity with the teachings. of the Holy Quran.
+
+According to the Quranic teachings Allah is the ultimate creator of every living and non-living thing. Some of the Quranic verses in this regard are quoted below:
+
+## اَلَّذِىَّ اَحْسَنَ كُلُّ شَيْءٍ خَلَقَهُ وَيَنَا خَلَقُ الإِنْسَانِ مِنْ طِفْتٍ
+
+Who made all things good which he created, and He began the creation of man from clay.
+(Surah Al-Sajda Ayah:7)
+
+Verily We created man from a product of wet earth;
+(Surah Al-Mominoon Ayah: 12)
+
+He created man of clay like the potter's.
+
+Allah is Creator of all things, and He is Guardian over all things.
+(Surah Al-Zumar Ayah: 62)
+
+Glory be to Him Who created all the sexual pairs of that which the earth groweth, and themselves, and of that which they know not!
+(Surah Yaseen Ayah:36)
+# Notes of any Subject for any test Preparation (the Largest Website)
+
+## UNIT 1
+
+### INTRODUCTION TO BIOLOGY
+
+وَهْوَالَّيَ تَرْكُزُهُم مِّنَ الْمُتَّقَالُ وَمَرُّ مِّنَ الْأَحْوَالِ وَمِنْهُمْ هَٰذَا الْمُتَّقَالُ وَمِنْهُمْ هَٰذَا الْمُتَّقَالُ وَمِنْهُمْ هَٰذَا الْمُتَّقَالُ وَمِنْهُمْ هَٰذَا الْمُتَّقَالُ وَمِنْهُمْ هَٰذَا الْمُتَّقَالُ
+
+And it is the He Who sendeth down water from the sky, and therewith We bring forth buds of every kind; We bring forth the green blade from which We bring forth the thick-clustered grain; and from the date-palm, from the pollen thereof, spring pendant bunches; and (We bring forth) gardens of grapes, and the olive and the pomegranate, alike and unlike. Look upon the fruit, thereof, when they bear fruit, and upon its ripening. Lol herein verily are portents for people who believe.
+
+(Surah Al-Ana’m Ayah: 99)
+
+### The Originator of the heavens and the earth.
+
+(Surah Al-Ana’m Ayah: 101)
+
+وَقِىَ الْأَرْضِ فَيَنْتَهُمْ مَكْتُوبٌ وَجَدَّتْ مِنَ الْمُنَافِ وَرُزْتُ وَقَلِيلٌ صِنْوَانٌ وَغَيْرُ صِنْوَانٍ يُسَمَّى بِمَآلِهِ وَاحِدٍ * *فَقَصَّلَ بَعْضُهَا عَلَى بَعْضٍ فِى الْأَكْلى*
+
+(الْعَبْدُ)
+
+And in the Earth are neighboring tracts, vineyards and ploughed lands, and date-palms, like and unlike, which are watered with one water. And We have made some of them to excel others in fruit. Lol herein verily are portents for people who have sense.
+
+(Surah Al-Ra'ad Ayah: 4)
+
+### Such is Allah, your Lord. There is no God save Him, the Creator of all things, so worship Him. And He taketh care of all things.
+
+(Surah Al-Ana’m Ayah: 102)
+
+## NOT FOR SALE
+
+وَهْوَالَّيَ تَرْكُزُهُم مِّنَ الْمُتَّقَالُ وَمَرُّ مِّنَ الْأَحْوَالِ وَمِنْهُمْ هَٰذَا الْمُتَّقَالُ وَمِنْهُمْ هَٰذَا الْمُتَّقَالُ وَمِنْهُمْ هَٰذَا الْمُتَّقَالُ وَمِنْهُمْ هَٰذَا الْمُتَّقَالُ وَمِنْهُمْ هَٰذَا الْمُتَّقَالُ وَمِنْهُمْ هَٰذَا الْمُتَّقَالُ وَمِنْهُمْ هَٰذَا الْمُتَّقَالُ وَمِنْهُمْ هَٰذَا الْمُتَّقَالُ وَمِنْهُمْ هَٰذَا الْمُتَّقَالُ وَمِنْهُمْ هَٰذَا الْمُتَّقَالُ
+
+(الْعَبْدُ)
+
+And it is the He Who sendeth down water from the sky, and therewith We bring forth buds of every kind; We bring forth the green blade from which We bring forth the thick-clustered grain; and from the date-palm, from the pollen thereof, spring pendant bunches; and (We bring forth) gardens of grapes, and the olive and the pomegranate, alike and unlike. Look upon the fruit, thereof, when they bear fruit, and upon its ripening. Lol herein verily are portents for people who believe.
+
+(Surah Al-Ana’m Ayah: 99)
+# UNIT 1 
+
+Who hath appointed the earth as a bed and hath threaded roads for you therein and hath send down water from the sky and thereby We have brought forth diverse kinds of vegetation.
+(Surah Taaha Ayah: 53)
+
+## أوْتَمَرَرْالْبِسْتَقَرْوْاْنْالْسُبُوتِوالْأرضْكانْتأَرْقَافْقَاهُهُمْ؟ وَجَعَلْنامِنْالْبَاءِكُلْخُنْعِفْتِفْ"الْقَايُوبُونْ
+
+Have not those who disbelieve known that the heavens and the earth were of one piece, then We parted them, and We made every living thing of water? Will they not then believe?
+(Surah Al-Anbiyah Ayah: 30)
+
+## نُمَحَكْفَنَاالْخُطْفَةْخَلْقَةْفُخْلَقْنَاالْعَلْقَةْمْعُمْهُفُخْلَقْنَاالْمَعْمَةْعِظْمُاهُكْسَوْنَاالْعِظَمَرَكُمَا"نُمُالْتَأَنْهَخَلْقَأْخَرْ" فَتَبْزَكَالْكَأْحَسْ أَعْلِفِينْ
+
+Then fashioned we the drop a clot, then fashioned We the clot a little lump, then fashioned We the little lump bones, then clothed the bones with flesh, and then produced it as another creation. So blessed be Allah the Best of Creators!
+(Surah Al-Mominoon Ayah: 14)
+
+## وَأَوْشَى رَبُّكَ إِلَى الْأَهْلِ أَنْ أَتْقِيلَ فِى مِّنَ الْجِبَالِ تَبْتَغُنَّهُمِنَ الشَّجَرِ وَمِمَّا يُجْرِسُونَ كُنْ يُجْلِسُ مِنْ كُلِّ الشُّرْبِ فَاسْأَلْكُ سَيْلَ رَبِّكِ
+
+## ذَٰلِلَّا يُجْرُبُ مِنْبُطُونِهَا نَارَابٌ فَلْيَتَلِفْ أَلْوَانُهُ فِيهِ شِفَاءُبْلِئْسَ "إِنْ قَدْ ذَٰلِكَ لَآيَةٌ لِّقَوْمٍ يَتَفَكَّرُونَ"
+
+And thy Lord inspired the bee, saying: Choose thou habitations in the hills and in the trees and in that which they thatch; Then eat of all fruits, and follow the ways of thy Lord, make smooth (for thee). There cometh forth from their bellies a drink diverse of hues, wherein is healing for mankind. Lo! herein is indeed a portent for people who reflect.
+(Surah Al-Nahal Ayah: 68-69)
+# INTRODUCIION TO BIOLOGY 
+
+Allah hath created every animal of water. Of them is (a kind) that goeth upon its belly and (a kind) that goeth upon two legs and (a kind) that goeth upon four. Allah createth what He will. Lo! Allah is able to do all things
+(Surah Al-Noor Ayah: 45)
+
+## وَالْأَرْضُ مَرْدِنُهَا وَالْقَيَتَا فِيهَا رُوَالِيتِ وَالْبَنَتَا فِيهَا مِن كُلِّ شَيْءٍ قَوْلَوْنِ
+
+And the earth have We spread out, and placed therein firm hills and caused each seemly thing to grow therein.
+(Surah: Al-Hijr Ayah: 19
+
+## إِنَّ لَّهُمْ فِي الْأَنْهَامِ لَعِبْرَةٌ نَزَّيْنَكُمْ فِتْنَايَ بَعْلَوْنِهِمِنْ بَيْنَ قُرْبٍ وَدَمٍ لَّبَنَا خَالِصًا نَأْلُهَا لِلشَّرِيبَيْنِ
+
+And Lo! in the cattle there is a lesson for you. We give you to drink of that which is in their bellies, from betwixt the refuse and the blood, pure milk palatable to the drinkers.
+(Surah: Al-Nahal Ayah: 66
+
+## إِنَّ اللَّهَ وَاللَّهُ الْعَبِثُ وَالنَّوْسُ *َهُمْ جُمُ الَّتِّ مِنَ الْمُؤْتِ وَهُمْ جُمُ الْمُؤْتِ مِنَ الَّتِّ *َذَلِكُمُ اللَّهُ فَأَلَّ نُوْقُتُونَ
+
+Lo! Allah (it is) who splitteth the grain of corn and the date-stone (for sprouting He bringeth forth the living from the dead, and is the bringer-forth of the dea from the living. Such is Allah. How then are ye preverted?
+(Surah: Al-Ana'm Ayah:9)
+# 1.7 Muslim scientists and their contributions 
+
+Muslim scientists contributed a lot of knowledge to the science of biology and medicines from 8th to 15th century. Their views were highly respected and taken as authority. Some of the famous Muslim scientists are:
+
+### 1.7.1 Jabir Bin Hayyan (721-815 AD)
+
+He was born in Iran and practiced medicine in Iraq. He introduced experimental chemistry and also wrote a number of books on plants and animals. Among these, "Al-Nabatat" and "Al-Hayawan" are noteworthy. He was also an astronomer, pharmacist, physician, philosopher and engineer.
+
+### 1.7.2 Abdul Malik Aasmai (740-828 AD)
+
+He was born in Busra. He was regarded as a specialist in animal sciences. He wrote many books on animals and plants. One of his books "Al-Kheil" is about horses, another, "Al-lbil" about camels, a third "A-sha" about sheep and fourth "Al-Wahoosh" is about wild animals. In the book "Khalaq-ul-Insan", he had described different parts and functions of human body.
+
+### 1.7.3 Bu Ali Sina (980-1037 AD)
+
+He was born near Bukhara. He was among the greatest Muslims scientists and his most valuable contribution was in the field of medicines. He was an expert in Mathematics, Astronomy, Physics and Palaeontology. He worked on the structure, function and diseases of the eye. He described 130 diseases of the eye in his book. His book "Al-Qanun-fil-Tibb" was translated into many European languages.
+
+### 1.7.4 Abu-Usman Umar Aljahiz
+
+He wrote the famous book "Al- Haywan" which described his own observations on animals, such as the seasonal migration of fish in river Tigris. Similarly, he described the life system of an ant.
+
+### 1.7.5 Al-Farabi
+
+This renowned Hakim and biologist lived in 870 - 950 AD. He wrote two books " Kitab-ul-Nabatat" which is about plants and "Kitab-ul- Haywanat" which is about animals.
+# UNIT 1 
+
+### 1.7.6 Abdul Qasim Ali-Zahravi
+
+This great Muslim surgeon was born in 936 AD and died in 1004 AD. He was famous for the removal of stone from urinary bladder.
+
+### 1.7.7 Ibn-ul-Haitham
+
+He lived in 965 - 1039 AD and was one of the most outstanding biologists of Muslim word. Basically he was an ophthalmologist. He corrected the Greek concept of vision locating retina as the seat of vision. His famous books" Kitabul Manazir" and "Mizanul Hikma" were translated into Latin, Hebrew, Greek and other western languages.
+
+### 1.7.8 Ali Bin Isa
+
+He was a well-known eye specialist. He worked on the structure, function and diseases of the eye. He described 130 diseases of the eye in his book. The book was translated into many European languages.
+
+### 1.7.9 Ibn-ul-Nafees) 2 End
+
+He was a renowned biologist of $13^{\text {th }}$ century A.D. He described the circulation of blood in human body.
+
+### 1.8 (Levels of Biological Organization
+
+Millions of organisms are present on the Earth. They are different from each other and range from the simplest organisms i.e. bacteria to the most complex ones i.e. human beings. The bodies of all living things are made of different parts organized in a certain manner that supports life functions. This organisation includes atoms $\rightarrow$ molecules $\rightarrow$ organelles $\rightarrow$ cells $\rightarrow$ tissues $\rightarrow$ organs $\rightarrow$ organ systems $\rightarrow$ organisms.
+
+## Level 1: Sub-atomic Particles and Atoms: You know
+
+that living and non-living matter is composed of simple units called atoms. Each atom is further composed of sub-atomic particles (electrons, protons and neutrons). The bodies of organisms are made of 16 kinds of elements. These elements are called bio-elements. Out of these bio-elements:
+
+## Scientific Information
+
+The most complex of all the matter are the living organisms. However, they are made of only 16 elements (bio-elements) out of total 123 elements.
+- Only six (O, C, H, N, Ca and P) make $99 \%$ of the protoplasm.
+- Other ten (K, S, Cl, Na, Mg, Fe, $\mathrm{Cu}, \mathrm{Mn}, \mathrm{Zn}$ and I) collectively make $1 \%$ of the protoplasm.
+
+
+# Level 2 : Molecules and Compounds: 
+
+You know that atoms combine through bonds and form molecules and compounds. Similarly, the atoms of bio-
+![img-0.jpeg](img-0.jpeg)
+
+Figure 1.2: Percentage composition (by mass) of bio-elements in organisms
+elements combine to form biomolecules. There are two types of bio-molecules. The bio-molecules with low molecular weight are called micro-molecules e.g. water, amino acids, glucose etc. The bio-molecules with higher molecular weights are called macro-molecules e.g. starch, protein, lipids etc.
+Level 3: Organelles: Different bio-molecules combine together in a specific manner and form sub-cellular structures called organelles e.g. mitochondria, chloroplast, ribosome etc. Each organelle performs a particular function. For example, mitochondria provide energy to the cell and ribosomes prepare proteins.
+Level 4: Cells: Cell is the basic structural and functional unit of an organism. It consists of many organelles such as, golgi bodies, mitochondria, lysosomes etc. which perform different specific functions inside the cell.
+
+In unicellular organisms, a single cell makes the whole body. While in multicellular organisms, there are more levels of biological organization.
+
+## Science, Technology and Society
+
+The heart, brain, kidneys, eyes and arterial blood vessels are main targets of hypertension and hypotension. Due to advancement in technologies, it is now possible to transplant some of these organs, such as; heart, kidneys, liver and lungs. Kidneys are the most commonly transplanted organs; followed by the liver and then the heart. Some tissues can also be transplanted.
+# Introduction to Biology
+
+**UNIT 1**
+
+Level 5: **Tissues:** In multicellular organisms, the cells which are similar in structure and perform similar functions make groups. Such groups of cells are called tissues. For example, in plants mesophyll tissue is made of cells which perform photosynthesis. In animals, glandular tissue is made of cells which produce secretions.
+
+Level 6: **Organs:** Different tissues work together to perform a specific activity. Such a group of related tissues is called an organ. For example, the organ stomach is made of two major tissues. Its epithelial (glandular) tissue secretes gastric juice for the digestion of proteins while its muscular tissue contracts and grinds food.
+
+Level 7: **Organ Systems:** The organs in turn coordinate and constitute an organ system which performs a particular function e.g. blood circulatory system in animals. The blood circulatory system is composed of organs like heart, arteries, veins and capillaries.
+
+Level 8: **Organism:** Different organ systems then collectively form a whole organism. In case of man, different organ systems such as blood circulatory system, respiratory system, digestive system etc. work in coordination. Similarly in plants, root and shoot systems constitute plant body.
+
+**Levels higher than the organism level:**
+
+- The group of similar individuals in an area is called a population.
+- Two or more populations of different organisms living together make a community.
+- The community and the non-living components of an area make an ecosystem.
+- All the ecosystems of the planet Earth are collectively called the biosphere.
+
+**Analysing and Interpreting:**
+
+Enlist five tissues, organs and systems of human body.
+
+15
+
+3025247378
+![img-0.jpeg](img-0.jpeg)
+
+Figure 1.3: Diagram showing different Levels of Biological Organization
+
+Activity: Write the levels against each example.
+
+| Organization | Level | Organization | Level |
+| :-- | :-- | :-- | :-- |
+| Heart |  | Blood |  |
+| $\mathrm{C}_{6} \mathrm{H}_{12} \mathrm{O}_{6}$ |  | Mitochondria |  |
+| Parenchyma |  | Neuron |  |
+# INTRODUCTION TO BIOLOGY 
+
+## 1.9 Cellular Organization
+
+All organisms are made of either one (unicellular) or many cells (multi-cellular). Moreover, there are certain organisms which are unicellular but they live in groups and make colonies. This is called colonial form of organism.
+(i) Unicellular Organization: Unicellular organisms such as Amoeba, Chlamydomonas, Euglena etc. have bodies made of single cells and the work is distributed among different organelles of the cells. So there is division of labour among different organelles. Although these are single celled organisms yet they are capable of carrying out all the vital activities of life. Their single cells are capable of respiration, digestion, excretion, reproduction etc. These types of organisms can live independently.
+(ii) Colonial Organization: Volvox is a green alga. It is a common example of unicellular colonial organisms. It lives in water. Hundreds of volvox cells make a small volvox colony Many small colonies make a big colony. Most of the functions are performed by every cell. However, an individual volvox cell cannot live independently as the cells of colony are dependent on each other. For example, there are cells which are specialized for mobility while other cells are for reproduction. Therefore, the division is above the cellular level and this is a trend towards more complex division of labour in multi-cellular organisms.
+![img-0.jpeg](img-0.jpeg)
+
+Figure 1.4: Unicellular Organization (a) Chlamydomonas and Colonial Oranization (b) Volvox colonies
+# UNIT 1 
+
+## INTRODUCTION TO BIOLOGY
+
+(iii) Multicellular Organization: In multicellular organization, cells are organized into tissues which inturn form organs and organs make organ systems. All plants and animals have multicellular organization.
+
+The body of a plant is made of vegetative and reproductive organs. Roots, stem, branches and leaves are the vegetative organs while flowers are the reproductive organs of plants. For example, Mustard plant has multicellular organization.
+
+Similarly, the body of an animal is made of different organ systems e.g. digestive system, respiratory system, blood circulatory system, nervous system, reproductive system etc. For example, frog shows multicellular organization.
+![img-0.jpeg](img-0.jpeg)
+
+Figure 1.5: Multicellular Organization
+
+## Activity
+
+Draw the diagrams of digestive and respiratory systems of man and label their main organs.
+# KEY POINTS
+
+- Biology is one of the natural sciences which deals with life or living organisms.
+- Biology is a multidisciplinary science, that requires a knowledge and understanding of chemistry, physics and mathematics.
+- Career in biology can be immensely rewarding and exciting. There are several career paths for a biologist such as: horticulture, forestry, medicine etc.
+- 16 out of the 92 naturally occurring elements are of significance in the bodies of living organisms.
+- Six elements i.e Hydrogen, Carbon, Oxygen, Nitrogen, Phosphorus and Calcium are the essential elements of the living bodies.
+- In biological organizations the atoms form the elements, which are organized into compounds/molecules, compounds into cells, cells into tissues, tissues into organs, organs into system and system into an organism.
+- Cell is the structural and functional unit of all living organisms.
+- Similar organisms which can interbreed and produce fertile offspring form the species.
+- Members of the same species living together in close association in a particular area make a population.
+- Living together of different populations constitutes a community.
+- Cellular organization can be of three types: Unicellular organization, colonial organization, multi-cellular organization.
+- In division of labour the work of keeping an organism alive is often divided among the different parts of its body. Each part performs a specific job.
+
+19
+
+3025247378
+# Exercise 
+
+A. Encircle the best suitable answers.
+i. Ms. Aisha was busy in dissecting and analyzing the heart of frog. Probably
+she is a:
+a. Cell biologist
+b. Taxonomist
+c. Histologist
+d. Palaeontologist
+ii. How many people get lung cancer by smoking? This question can be answered through:
+a. Biometry
+b. Biophysics
+c. Bio-economics
+d. Biogeography
+iii. Al-Qanun fil-Tibb is the famous book of:
+a. Bu Ali Sina
+b. Jabir bin Hayyan
+c. Abdul Malik Asmai
+d. Ibn Nafees
+iv. One of the following contain large number of cells but not a multicellular:
+a. Frog
+b. Volvox
+c. Mushroom
+d. Chlamydomonas
+v. According to five Kingdom System of classifications mushrooms belong to:
+a. Plantae
+b. Fungi
+c. Animalia
+d. Protista
+# INTRODUCTION TO BIOLOGY
+
+## UNIT 1
+
+vi. The level of organization which is represented by the heart of frog is:
+
+a) Organ
+
+b) Tissue
+
+c) Organism
+
+d) Organelle
+
+vii. One of the following is not a macromolecule:
+
+a) Glucose
+
+b) Sucrose
+
+c) Fatty acid
+
+d) Protein
+
+viii. "The number of plants in desert are scarce". This could be the statement of:
+
+a) Palaeontologist
+
+b) Social biologist
+
+c) Biogeoghraphist
+
+d) Taxonomist
+
+ix. Which bio-element makes most of the composition of organism's body?:
+
+a) Hydrogen
+
+b) Carbon
+
+c) Oxygen
+
+d) Nitrogen
+
+x. Which of the following cellular organization represents Volvox?
+
+a) Unicellular
+
+b) Multicellular
+
+c) Bicellular
+
+d) Colonial
+
+21
+B. Write short answers for the following questions.
+i. How the understanding of physics can help the biologist?
+ii. Which career would you like to adopt after studying biology and why?
+iii. Write the translation of any three verses of the Holy Quran related to the 8 creation of mankind.
+iv. Name few Muslim Scientists and their contributions in the field of biology and medicine.
+v. What level of organization is represented by Volvox?
+C. Write detailed answers for the following questions.
+i. How the understanding of biology can be improved through the knowledge of geography, chemistry and statistics? Give examples.
+ii. Define biology. How can you describe your own body under different branches of biology?
+iii. Enlist the various levels of biological organization and explain it with an example.
+iv. Explain the role of bio elements for living organisms.
+v. Who classify the living organisms into five kingdom. Explain each kingdom with the living organisms included in it.
+# Notes of any Subject for any test Preparation
+
+**Web.com (the Largest Website)**
+
+## UNIT
+
+### SOLVING A BIOLOGICAL PROBLEM
+
+After studying this unit, the students will be able to:
+
+- Describe the steps involved in biological method i.e. recognition of a biological problems, observation and identification, building up hypothesis, drawing deductions, devising experiments and inferring results (malaria as an example).
+- Describe the use of ratio and proportion in solving biological problems.
+- Explain the importance of data analysis for confirming, modifying or rejecting a hypothesis.
+- Justify mathematics as an integral part of the scientific process.
+
+23
+
+3025247378

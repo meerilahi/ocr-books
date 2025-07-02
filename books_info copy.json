@@ -1,0 +1,130 @@
+
+{
+    "1" : {
+        "name" : "Grade_9_Biology",
+        "bisect" : "left",
+        "leading_pages": 7,
+        "chapters": {
+            "1": {
+                "chapterTitle": "Introduction to Biology",
+                "start_page": 1,
+                "end_page": 22
+            },
+            "2": {
+                "chapterTitle": "Solving A Biological Problem",
+                "start_page": 23,
+                "end_page": 36
+            },
+            "3": {
+                "chapterTitle": "Biodiversity",
+                "start_page": 37,
+                "end_page": 62
+            },
+            "4": {
+                "chapterTitle": "Celss and Tissues",
+                "start_page": 63,
+                "end_page": 98
+            },
+            "5": {
+                "chapterTitle": "Cell Cycle",
+                "start_page": 99,
+                "end_page": 115
+            },
+            "6": {
+                "chapterTitle": "Enzymes",
+                "start_page": 116,
+                "end_page": 128
+            },
+            "7": {
+                "chapterTitle": "Bio-Energetics",
+                "start_page": 129,
+                "end_page": 146
+            },
+            "8": {
+                "chapterTitle": "Nutrition",
+                "start_page": 147,
+                "end_page": 177
+            },
+            "9": {
+                "chapterTitle": "Transport",
+                "start_page": 178,
+                "end_page": 206
+            }
+        }
+    },
+    "2" : {
+        "name" : "Grade_9_Chemistry",
+        "bisect" : "left",
+        "leading_pages": 5,
+        "chapters": {
+            "1": {
+                "chapterTitle": "Fundametals of Chemistry",
+                "start_page": 1,
+                "end_page": 39
+            },
+            "2": {
+                "chapterTitle": "Structure of Atom",
+                "start_page": 40,
+                "end_page": 62
+            },
+            "3": {
+                "chapterTitle": "Periodic Table and Periodicity of Properties",
+                "start_page": 63,
+                "end_page": 90
+            },
+            "4": {
+                "chapterTitle": "Structure of Molecules",
+                "start_page": 91,
+                "end_page": 120
+            },
+            "5": {
+                "chapterTitle": "Physical States of Matter",
+                "start_page": 121,
+                "end_page": 151
+            },
+            "6": {
+                "chapterTitle": "Solutions",
+                "start_page": 152,
+                "end_page": 181
+            },
+            "7": {
+                "chapterTitle": "Elector Chemistry",
+                "start_page": 182,
+                "end_page": 217
+            },
+            "8": {
+                "chapterTitle": "Chemical Reactivity",
+                "start_page": 218,
+                "end_page": 248
+            }
+        }
+    },
+    "3" : {
+        "name" : "Grade_9_PakStudy",
+        "bisect" : "none",
+        "leading_pages": 5,
+        "chapters": {
+            "1": {
+                "chapterTitle": "Ideological Basis of Pakistan",
+                "start_page": 1,
+                "end_page": 13
+            },
+            "2": {
+                "chapterTitle": "Making of Pakistan",
+                "start_page": 14,
+                "end_page": 35
+            },
+            "3": {
+                "chapterTitle": "Land of Pakistan",
+                "start_page": 36,
+                "end_page": 61
+            },
+            "4": {
+                "chapterTitle": "History of Pakistan",
+                "start_page": 62,
+                "end_page": 93
+            }
+        }
+    }
+    
+}
