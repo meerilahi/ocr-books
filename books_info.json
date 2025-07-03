@@ -5,6 +5,11 @@
         "bisect" : "left",
         "leading_pages": 7,
         "chapters": {
+            "1": {
+                "chapterTitle": "Introduction to Biology",
+                "start_page": 1,
+                "end_page": 22
+            },
             "2": {
                 "chapterTitle": "Solving A Biological Problem",
                 "start_page": 23,
@@ -12,15 +17,21 @@
             }
         }
     },
+
     "3" : {
         "name" : "Grade_9_PakStudy",
         "bisect" : "none",
         "leading_pages": 5,
         "chapters": {
-            "4": {
-                "chapterTitle": "History of Pakistan",
-                "start_page": 62,
-                "end_page": 93
+            "1": {
+                "chapterTitle": "Ideological Basis of Pakistan",
+                "start_page": 1,
+                "end_page": 13
+            },
+            "2": {
+                "chapterTitle": "Making of Pakistan",
+                "start_page": 14,
+                "end_page": 35
             }
         }
     }

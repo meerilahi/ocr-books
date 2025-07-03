@@ -15,11 +15,18 @@ class FirestoreCRUD:
             firebase_admin.initialize_app(cred)
         self.db = firestore.client()
         self.books_collection = "books"
+        self.booksInfo_collection = "booksInfo"
 
     def add_book(self, book: BookModel) -> str:
-        doc_ref = self.db.collection(self.books_collection).document()
-        doc_ref.set(book.to_dict())
-        return doc_ref.id
+        book_col_ref = self.db.collection(self.books_collection).document()
+        book_col_ref.set(book.to_dict())
+        bookInfo_col_ref = self.db.collection(self.booksInfo_collection).document()
+        bookInfo_col_ref.set({
+            'title' : book.title,
+            'chapters' : {chapter.chapter_No : chapter.title for chapter in book.chapters }
+        })
+        return book_col_ref.id
+
     
     def add_chapter_to_book(self, book_id: str, chapter: ChapterModel) -> bool:
         book_ref = self.db.collection(self.books_collection).document(book_id)
